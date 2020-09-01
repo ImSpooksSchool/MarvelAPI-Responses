@@ -1,0 +1,26 @@
+2. 
+- Absorbing Man
+- Beyonder
+- Captain America
+- Captain Marvel (Mar-Vell)
+- Colossus
+- Cyclops
+- Doctor Doom
+- Doctor Octopus
+- Galactus
+- Hawkeye
+- Hulk
+- Human Torch
+- Iron Man
+- Klaw
+- Lizard
+- Lockheed
+- El Magneto
+- Mr. Fantastic
+- Nightcrawler
+- Professor X
+
+
+Queries:
+- gateway.marvel.com/v1/public/series?title=Secret Wars
+- gateway.marvel.com/v1/public/series/2063/characters

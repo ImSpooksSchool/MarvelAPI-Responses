@@ -1,0 +1,11 @@
+6.
+- 5 Ronin
+- A+X
+- Age of X
+- Alpha Flight
+- Amazing Spider-Man
+- Nog veel meer, de api call die ik zoek bestaat niet, in de series dat die 2 characters bevatten, maar hij telt ze bij elkaar op.
+
+Queries:
+- gateway.marvel.com/v1/public/characters?name=Hulk
+- gateway.marvel.com/v1/public/characters?name=Wolverine

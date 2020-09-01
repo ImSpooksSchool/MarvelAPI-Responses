@@ -1,0 +1,5 @@
+3. True Believers: Empyre - She-Hulk (2020) #1
+
+Queries:
+- gateway.marvel.com/v1/public/creators?firstName=Stan&lastName=Lee
+- gateway.marvel.com/v1/public/creators/30/comics?orderBy=-focDate

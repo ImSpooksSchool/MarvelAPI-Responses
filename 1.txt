@@ -1,0 +1,8 @@
+1. Fantastic Four (1961) #52 - uitgegeven op 1966
+
+Notes:
+In de tweede request (1.2.json) hebben de eerste twee entries een datum van -0001.xxxx
+
+Queries:
+- gateway.marvel.com/v1/public/characters/1009187/comics?name=Black Panther
+- gateway.marvel.com/v1/public/characters/1009187/comics?orderBy=onsaleDate
